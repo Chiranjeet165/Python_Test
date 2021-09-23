@@ -6,4 +6,5 @@ for i in N:
         print('Odd ')
 print('modified')
 
+print("I am genius")
 print(" second Modification")
